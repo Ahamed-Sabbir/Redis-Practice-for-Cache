@@ -137,6 +137,9 @@ It supports basic CRUD operations on a `User` entity, and caches user data for f
 ## Project Structure
 ```
 src/main/java/com/sabbir
+|
+├── config
+│    └── RedisConfig.java
 │
 ├── controller
 │    └── UserController.java
