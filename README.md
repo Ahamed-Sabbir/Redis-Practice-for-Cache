@@ -55,6 +55,7 @@ It supports basic CRUD operations on a `User` entity, and caches user data for f
   }
   ```
 - **Notes:** The result will be cached in Redis.
+- ```bash {"@class":"com.sabbir.model.User","name":"samia","email":"samia@gmail.com","id":1} ```
 
 ---
 
