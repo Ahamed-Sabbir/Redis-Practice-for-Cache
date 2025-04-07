@@ -11,6 +11,7 @@ It supports basic CRUD operations on a `User` entity, and caches user data for f
 - **H2 In-Memory Database**
 - **Lombok**
 - **Gradle**
+- ([https://app.warp.dev/block/R8iykeai0iBdSPbqpfLQ1q])
 
 ---
 
