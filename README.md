@@ -1,7 +1,3 @@
-Here’s your full `README.md` for GitHub based on what you shared:
-
----
-
 # Redis Practice with Spring Boot
 
 This project demonstrates how to use **Spring Boot Cache** with **Redis** as a cache store.  
